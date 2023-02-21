@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author dabin
- *
- */
-module basic {
-}
